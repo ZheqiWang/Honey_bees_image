@@ -1,2 +1,4 @@
 # Project2019
 ## Data Incubater Challenge
+* Tweet Emotion Analysis - using machine learning knowledge to analysis social emotion*
+Today, the prevalence of various social media and the Internet has made more and more people in the online world. But because the online world is mostly anonymous, people's perceptions of an event are divided into two extremes or neutral. These netizens' opinions will also greatly affect the development of the entire event. If one thing happens, the analysis of social media Internet users' perception of this matter is whether negative or neutral can better predict the development trend of the whole event. It is also possible to control public opinion in a timely manner when the evaluation begins to develop toward the negative end to avoid cyber violence and worse things.
